@@ -1,0 +1,343 @@
+S.no.,State_Name,Crop_Type,Crop,N,P,K,pH,rainfall,temperature,Area_in_hectares,Production_in_tons,Yield_ton_per_hec,Soil_Type,DegreeofNutrients
+1,andhra pradesh,kharif,cotton,120,40,20,5.46,654.34,29,7300,9400,1.287671233,Black Soil,high
+2,andhra pradesh,kharif,jowar,80,40,40,5.42,654.34,30,10100,10200,1.00990099,Black Soil,high
+3,andhra pradesh,kharif,maize,80,40,20,5.62,654.34,30,2800,4900,1.75,Black Soil,low
+4,andhra pradesh,kharif,moong,20,40,20,5.68,654.34,28,1300,500,0.384615385,Black Soil,low
+5,andhra pradesh,kharif,ragi,50,40,20,5.64,654.34,27,6700,11800,1.76119403,Black Soil,low
+6,andhra pradesh,kharif,rice,80,40,40,5.54,654.34,25,35600,75400,2.117977528,Black Soil,low
+7,andhra pradesh,kharif,sunflower,50,60,30,5.36,654.34,29,35900,11100,0.309192201,Black Soil,low
+8,andhra pradesh,rabi,horsegram,20,60,20,6,288.3,25,600,200,0.333333333,Black Soil,low
+9,andhra pradesh,rabi,jowar,80,40,40,5.5,288.3,25,18800,9400,0.5,Black Soil,low
+10,andhra pradesh,rabi,maize,80,40,20,5.54,288.3,30,600,2400,4,Black Soil,low
+11,andhra pradesh,rabi,ragi,50,40,20,5.6,288.3,25,600,1000,1.666666667,Black Soil,low
+12,andhra pradesh,rabi,rice,80,40,40,5.54,288.3,25,18000,37300,2.072222222,Black Soil,medium
+13,andhra pradesh,rabi,sunflower,50,60,30,5.32,288.3,32,30100,11100,0.368770764,Black Soil,low
+14,andhra pradesh,rabi,wheat,60,30,30,6.4,288.3,26,300,200,0.666666667,Black Soil,medium
+15,assam,kharif,rice,80,40,40,5.36,1543.76,27,83560,43512,0.520727621,Laterite,medium
+16,assam,kharif,cotton,120,40,20,5.42,1543.76,27,8,4,0.5,Laterite,high
+17,assam,kharif,jute,80,40,40,5.48,1543.76,27,8120,52544,6.470935961,Laterite,low
+18,assam,kharif,maize,80,40,20,5.46,1543.76,27,46,30,0.652173913,Laterite,low
+19,assam,rabi,rapeseed,50,40,20,4.92,127.68,20,25501,16865,0.661346614,Laterite,low
+20,assam,rabi,wheat,60,30,30,6.3,127.68,20,12675,15645,1.234319527,Laterite,medium
+21,assam,summer,rice,80,40,40,5.52,497.88,25,8850,12831,1.449830508,Laterite,medium
+22,assam,whole year,arecanut,100,40,140,6.18,2169.32,23,7160,5360,0.748603352,Laterite,medium
+23,assam,whole year,onion,120,60,65,6.08,2169.32,23,1245,1868,1.500401606,Laterite,medium
+24,assam,whole year,potato,180,60,90,5.12,2169.32,23,10610,165586,15.60659755,Laterite,medium
+25,assam,whole year,sesamum,30,15,30,6.6,2169.32,23,1420,852,0.6,Laterite,medium
+26,assam,whole year,sweetpotato,90,20,120,4.82,2169.32,23,849,2123,2.500588928,Laterite,medium
+27,assam,whole year,tapioca,50,50,50,5.66,2169.32,23,42,210,5,Laterite,medium
+28,assam,whole year,turmeric,25,60,100,4.92,2169.32,23,760,608,0.8,Laterite,medium
+29,assam,rabi,rice,80,40,40,5.4,127.68,20,103015,76589,0.743474251,Laterite,medium
+30,bihar,kharif,rice,80,40,40,5.46,840.46,33,17876,21397,1.196968002,Alluvial,high
+31,bihar,kharif,jute,80,40,40,5.56,840.46,33,39159,493403,12.59998979,Alluvial,low
+32,bihar,kharif,maize,80,40,20,5.34,840.46,33,3919,8691,2.217657566,Alluvial,high
+33,bihar,kharif,sesamum,30,15,30,6.34,840.46,33,4,2,0.5,Alluvial,high
+34,bihar,rabi,barley,70,40,45,5.64,87.2,23,84,87,1.035714286,Alluvial,high
+35,bihar,rabi,maize,80,40,20,5.4,87.2,23,3250,7543,2.320923077,Alluvial,high
+36,bihar,rabi,rapeseed,50,40,20,4.88,87.2,23,3060,2084,0.681045752,Alluvial,low
+37,bihar,rabi,sunflower,50,60,30,5.36,87.2,23,62,35,0.564516129,Alluvial,high
+38,bihar,rabi,wheat,60,30,30,6.11,87.2,23,41719,70134,1.681104533,Alluvial,high
+39,bihar,summer,maize,80,40,20,5.38,98.98,34,6134,18485,3.013531138,Alluvial,high
+40,bihar,summer,rice,80,40,40,5.44,98.98,34,8479,13993,1.650312537,Alluvial,high
+41,bihar,whole year,banana,100,75,50,6.64,1026.64,29,386,11611,30.08031088,Alluvial,high
+42,bihar,whole year,coriander,10,20,20,6.38,1026.64,29,119,58,0.487394958,Alluvial,high
+43,bihar,whole year,garlic,50,10,60,5.52,1026.64,29,350,467,1.334285714,Alluvial,high
+44,bihar,whole year,onion,120,60,65,6.12,1026.64,29,343,1955,5.699708455,Alluvial,high
+45,bihar,whole year,potato,180,60,90,4.9,1026.64,29,3964,27739,6.997729566,Alluvial,high
+46,bihar,whole year,ragi,50,40,20,5.58,1026.64,29,1546,1333,0.862225097,Alluvial,high
+47,bihar,whole year,sweetpotato,90,20,120,5.06,1026.64,29,743,7344,9.884253028,Alluvial,high
+48,bihar,whole year,turmeric,25,60,100,5.04,1026.64,29,101,204,2.01980198,Alluvial,high
+49,goa,whole year,ragi,50,40,20,5.48,3041.4,28,1675,1572,0.938507463,Laterite,medium
+50,goa,kharif,rice,80,40,40,5.4,2879.86,27,15169,40864,2.693915222,Laterite,medium
+51,goa,rabi,rice,80,40,40,5.38,141.46,28,6417,19052,2.968988624,Laterite,low
+52,goa,whole year,ragi,50,40,20,5.68,3041.4,28,1125,904,0.803555556,Laterite,low
+53,gujarat,kharif,jowar,80,40,40,5.66,790.98,30,42500,33500,0.788235294,Alluvial,medium
+54,gujarat,kharif,moong,20,40,20,5.44,790.98,30,2300,1200,0.52173913,Black Soil,high
+55,gujarat,rabi,jowar,80,40,40,5.34,15.34,27,2000,1700,0.85,Alluvial,medium
+56,gujarat,rabi,rapeseed,50,40,20,5.06,15.34,27,9000,9400,1.044444444,Alluvial,low
+57,gujarat,rabi,wheat,60,30,30,6.4,15.34,27,96000,121400,1.264583333,Alluvial,high
+58,gujarat,whole year,banana,100,75,50,6.68,810.26,29,200,14300,71.5,Alluvial,high
+59,gujarat,whole year,cotton,120,40,20,5.54,810.26,29,154900,181500,1.171723693,Black Soil,high
+60,gujarat,whole year,maize,80,40,20,5.32,810.26,29,600,1000,1.666666667,Black Soil,high
+61,gujarat,whole year,potato,180,60,90,5.02,810.26,29,2300,50000,21.73913043,Arid and Desert soil,high
+62,gujarat,whole year,rice,80,40,40,5.66,810.26,29,75300,114500,1.520584329,Black Soil,high
+63,gujarat,whole year,sesamum,30,15,30,6.46,810.26,29,9300,6800,0.731182796,Alluvial,low
+64,haryana,kharif,maize,80,40,20,5.36,331.88,35,8000,15000,1.875,Alluvial,medium
+65,haryana,kharif,rice,80,40,40,5.5,331.88,35,65000,182000,2.8,Alluvial,medium
+66,haryana,rabi,wheat,60,30,30,6.1,41.3,21,72000,226000,3.138888889,Alluvial,high
+67,haryana,kharif,jowar,80,40,40,5.32,331.88,35,6000,2000,0.333333333,Alluvial,medium
+68,haryana,rabi,barley,70,40,45,5.54,41.3,21,4000,10000,2.5,Alluvial,medium
+69,haryana,whole year,cotton,120,40,20,5.58,421.14,28,55000,85000,1.545454545,Alluvial,low
+70,haryana,kharif,maize,80,40,20,5.6,331.88,35,1000,2000,2,Alluvial,low
+71,haryana,rabi,wheat,60,30,30,6.3,41.3,21,119000,449000,3.773109244,Alluvial,high
+72,jammu and kashmir,kharif,maize,80,40,20,5.38,516.68,27,21291,19100,0.897092668,Alluvial,high
+73,jammu and kashmir,kharif,rice,80,40,40,5.64,516.68,27,41279,1105,0.026769059,Alluvial,high
+74,jammu and kashmir,rabi,wheat,60,30,30,6.12,293.36,14,23,20,0.869565217,Alluvial,high
+75,karnataka,kharif,horsegram,20,60,20,6.02,1246.715,22,10520,3578,0.340114068,Laterite,medium
+76,karnataka,kharif,jowar,80,40,40,5.38,1246.715,22,52232,64259,1.230261143,Laterite,medium
+77,karnataka,kharif,maize,80,40,20,5.58,1246.715,22,58549,181319,3.096876121,Laterite,high
+78,karnataka,kharif,ragi,50,40,20,5.66,1246.715,22,2501,2525,1.009596162,Laterite,low
+79,karnataka,kharif,rice,80,40,40,5.4,1246.715,22,63734,91677,1.438431606,Laterite,medium
+80,karnataka,rabi,horsegram,20,60,20,6.14,199.2125,21,2833,964,0.340275327,Laterite,medium
+81,karnataka,rabi,jowar,80,40,40,5.62,199.2125,21,140805,63996,0.454500906,Laterite,medium
+82,karnataka,rabi,maize,80,40,20,5.38,199.2125,21,26432,50103,1.895543281,Laterite,medium
+83,karnataka,rabi,wheat,60,30,30,6.7,199.2125,21,55130,41220,0.747687285,Laterite,medium
+84,karnataka,whole year,coriander,10,20,20,6.44,1603.2375,22,215,26,0.120930233,Laterite,medium
+85,karnataka,whole year,garlic,50,10,60,5.6,1603.2375,22,765,915,1.196078431,Laterite,medium
+86,karnataka,whole year,turmeric,25,60,100,5.06,1603.2375,22,818,4496,5.496332518,Laterite,medium
+87,kerala,kharif,rice,80,40,40,5.4,1997.12,27,9808,16384,1.670473083,Laterite,medium
+88,kerala,kharif,sesamum,30,15,30,6.48,1997.12,27,617,201,0.325769854,Laterite,medium
+89,kerala,summer,rice,80,40,40,5.54,330,29,17536,55953,3.190750456,Laterite,medium
+90,kerala,whole year,arecanut,100,40,140,6.02,2817.86,27,2205,917,0.415873016,Laterite,medium
+91,kerala,whole year,banana,100,75,50,6.38,2817.86,27,595,4134,6.94789916,Laterite,medium
+92,kerala,whole year,blackpepper,100,60,50,4.96,2817.86,27,2134,297,0.139175258,Laterite,medium
+93,kerala,whole year,cashewnuts,70,40,60,5.9,2817.86,27,4728,1234,0.260998308,Laterite,medium
+94,kerala,whole year,sweetpotato,90,20,120,5.1,2817.86,27,1,12,12,Laterite,medium
+95,kerala,whole year,tapioca,50,50,50,5.46,2817.86,27,4843,81313,16.78979971,Laterite,medium
+96,kerala,whole year,sweetpotato,90,20,120,5.16,2817.86,27,12,135,11.25,Laterite,medium
+97,kerala,whole year,turmeric,25,60,100,5,2817.86,27,11,12,1.090909091,Laterite,medium
+98,kerala,rabi,rice,80,40,40,5.52,490.74,27,10396,31207,3.001827626,Laterite,medium
+99,kerala,whole year,tapioca,50,50,50,5.6,2817.86,27,3911,74110,18.94911787,Laterite,medium
+100,madhya pradesh,kharif,sesamum,30,15,30,6.5,1011.49,30,1100,500,0.454545455,Black(Regur Soil),medium
+101,madhya pradesh,kharif,soyabean,20,60,20,5.34,1011.49,30,300,400,1.333333333,Black(Regur Soil),medium
+102,madhya pradesh,rabi,rapeseed,50,40,20,5.12,73.47,23,3500,2800,0.8,Black(Regur Soil),medium
+103,madhya pradesh,rabi,wheat,60,30,30,6.3,73.47,23,13100,6500,0.496183206,Black(Regur Soil),medium
+104,madhya pradesh,kharif,cotton,120,40,20,5.6,1011.49,30,1500,2000,1.333333333,Black(Regur Soil),high
+105,madhya pradesh,kharif,jowar,80,40,40,5.6,1011.49,30,52800,22900,0.433712121,Black(Regur Soil),medium
+106,madhya pradesh,kharif,maize,80,40,20,5.5,1011.49,30,18300,22700,1.240437158,Black(Regur Soil),medium
+107,madhya pradesh,kharif,sunflower,50,60,30,5.44,1011.49,30,700,100,0.142857143,Black(Regur Soil),medium
+108,madhya pradesh,rabi,barley,70,40,45,5.66,73.47,23,7900,13400,1.696202532,Black(Regur Soil),medium
+109,maharashtra,kharif,maize,80,40,20,5.38,607.48,26,1,1113,1113,Black(Regur Soil),medium
+110,maharashtra,kharif,jowar,80,40,40,5.34,607.48,26,900,1100,1.222222222,Black(Regur Soil),medium
+111,maharashtra,kharif,maize,80,40,20,5.36,607.48,26,4400,4700,1.068181818,Black(Regur Soil),medium
+112,maharashtra,kharif,moong,20,40,20,5.32,607.48,26,10200,900,0.088235294,Black(Regur Soil),medium
+113,maharashtra,kharif,ragi,50,40,20,5.46,607.48,26,2600,2100,0.807692308,Black(Regur Soil),medium
+114,maharashtra,kharif,rice,80,40,40,5.6,607.48,26,5900,7200,1.220338983,Black(Regur Soil),medium
+115,maharashtra,rabi,jowar,80,40,40,5.36,70.11,25,598400,217000,0.36263369,Black(Regur Soil),medium
+116,maharashtra,rabi,maize,80,40,20,5.62,70.11,25,6200,9100,1.467741935,Black(Regur Soil),medium
+117,maharashtra,rabi,wheat,60,30,30,6.9,70.11,25,79700,87100,1.092848181,Black(Regur Soil),medium
+118,maharashtra,summer,maize,80,40,20,5.62,37.09,27,1100,1900,1.727272727,Black(Regur Soil),medium
+119,maharashtra,whole year,cotton,120,40,20,5.52,714.68,26,98,17900,182.6530612,Black(Regur Soil),medium
+120,manipur,kharif,onion,120,60,65,6.02,702.459,27,2,5,2.5,Alluvial,medium
+121,manipur,kharif,rice,80,40,40,5.62,702.459,27,17,40,2.352941176,Red ferruginous,low
+122,manipur,kharif,maize,80,40,20,5.38,702.459,27,2,4,2,Alluvial,high
+123,manipur,kharif,rice,80,40,40,5.62,702.459,27,7,9,1.285714286,Alluvial,high
+124,manipur,whole year,banana,100,75,50,6.62,1350.025,26,1,12,12,Alluvial,high
+125,manipur,whole year,turmeric,25,60,100,5.1,1350.025,26,7,4,0.571428571,Alluvial,high
+126,meghalaya,kharif,cotton,120,40,20,5.56,423.745,22,2720,1960,0.720588235,Alluvial,high
+127,meghalaya,kharif,jute,80,40,40,5.38,423.745,22,312,2916,9.346153846,Alluvial,high
+128,meghalaya,kharif,maize,80,40,20,5.64,423.745,22,1090,1362,1.249541284,Alluvial,high
+129,meghalaya,kharif,rice,80,40,40,5.56,423.745,22,17301,22730,1.31379689,Alluvial,high
+130,meghalaya,kharif,sesamum,30,15,30,6.44,423.745,22,295,147,0.498305085,Alluvial,high
+131,meghalaya,kharif,soyabean,20,60,20,5.62,423.745,22,138,136,0.985507246,Alluvial,high
+132,meghalaya,rabi,rapeseed,50,40,20,5.18,56.236,15,749,355,0.473965287,Alluvial,high
+133,meghalaya,rabi,wheat,60,30,30,6.8,56.236,15,72,83,1.152777778,Alluvial,high
+134,meghalaya,whole year,arecanut,100,40,140,5.88,1050.245,18,793,749,0.944514502,Alluvial,high
+135,meghalaya,whole year,banana,100,75,50,6.34,1050.245,18,1075,13310,12.38139535,Alluvial,high
+136,meghalaya,whole year,potato,180,60,90,5.14,1050.245,18,101,795,7.871287129,Alluvial,high
+137,meghalaya,whole year,sweetpotato,90,20,120,4.92,1050.245,18,251,782,3.115537849,Alluvial,high
+138,meghalaya,whole year,tapioca,50,50,50,5.34,1050.245,18,1470,7319,4.978911565,Alluvial,high
+139,meghalaya,whole year,turmeric,25,60,100,5.02,1050.245,18,100,556,5.56,Alluvial,high
+140,mizoram,kharif,maize,80,40,20,5.38,235.4251,26,4128,8141,1.972141473,Red Laterite,medium
+141,mizoram,kharif,rapeseed,50,40,20,4.98,235.4251,26,304,316,1.039473684,Red Laterite,medium
+142,mizoram,kharif,sesamum,30,15,30,6.66,235.4251,26,1368,1270,0.928362573,Red Laterite,medium
+143,mizoram,kharif,soyabean,20,60,20,5.42,235.4251,26,563,809,1.436944938,Red Laterite,medium
+144,mizoram,rabi,rapeseed,50,40,20,5,85.24316,21,145,146,1.006896552,Alluvial,high
+145,mizoram,rabi,wheat,60,30,30,6.8,85.24316,21,22,11,0.5,Alluvial,high
+146,mizoram,whole year,rice,80,40,40,5.62,742.0124,24,30274,50241,1.659542842,Alluvial,high
+147,mizoram,whole year,tapioca,50,50,50,5.66,742.0124,24,255,5981,23.45490196,Alluvial,high
+148,nagaland,rabi,rice,80,40,40,5.36,70.598,18,150,180,1.2,Laterite,high
+149,nagaland,kharif,jowar,80,40,40,5.62,207.55,26,50,40,0.8,Laterite,high
+150,nagaland,kharif,maize,80,40,20,5.66,207.55,26,2900,2800,0.965517241,Laterite,high
+151,nagaland,kharif,rice,80,40,40,5.52,207.55,26,21320,26700,1.252345216,Laterite,medium
+152,odisha,kharif,maize,80,40,20,5.38,1145.22,28,948,675,0.712025316,Red Laterite,medium
+153,odisha,kharif,ragi,50,40,20,5.62,1145.22,28,46,25,0.543478261,Red Laterite,medium
+154,odisha,kharif,sesamum,30,15,30,6.54,1145.22,28,1307,385,0.294567712,Red Laterite,medium
+155,odisha,rabi,wheat,60,30,30,6.7,167.38,23,94,67,0.712765957,Red Laterite,medium
+156,odisha,summer,maize,80,40,20,5.4,113.7,30,17,14,0.823529412,Red Laterite,medium
+157,odisha,summer,sesamum,30,15,30,6.46,113.7,30,790,187,0.236708861,Red Laterite,medium
+158,odisha,whole year,potato,180,60,90,4.9,1426.3,26,524,4122,7.866412214,Red Laterite,medium
+159,odisha,rabi,horsegram,20,60,20,5.96,167.38,23,5955,1476,0.247858942,Red Laterite,medium
+160,odisha,rabi,maize,80,40,20,5.6,167.38,23,9,10,1.111111111,Red Laterite,medium
+161,odisha,rabi,sesamum,30,15,30,6.54,167.38,23,5536,919,0.166004335,Red Laterite,medium
+162,odisha,kharif,jute,80,40,40,5.36,1145.22,28,450,520,1.155555556,Red Laterite,medium
+163,punjab,kharif,maize,80,40,20,5.58,411.52,34,7000,14000,2,Alluvial,high
+164,punjab,kharif,rice,80,40,40,5.58,411.52,34,292000,879000,3.010273973,Alluvial,high
+165,punjab,kharif,sesamum,30,15,30,6.42,411.52,34,6000,1700,0.283333333,Alluvial,high
+166,punjab,rabi,rapeseed,50,40,20,5.12,66.52,20,8000,6000,0.75,Alluvial,low
+167,punjab,rabi,wheat,60,30,30,6.8,66.52,20,349000,1318000,3.776504298,Alluvial,high
+168,punjab,whole year,cotton,120,40,20,5.68,535.78,27,5000,2000,0.4,Alluvial,medium
+169,punjab,whole year,moong,20,40,20,5.36,535.78,27,8400,5300,0.630952381,Alluvial,medium
+170,punjab,kharif,rice,80,40,40,5.56,411.52,34,53000,212000,4,Alluvial,medium
+171,punjab,rabi,barley,70,40,45,5.4,66.52,20,5000,12000,2.4,Alluvial,high
+172,punjab,rabi,rapeseed,50,40,20,5.02,66.52,20,10000,7000,0.7,Alluvial,high
+173,punjab,rabi,wheat,60,30,30,6.11,66.52,20,236000,819000,3.470338983,Alluvial,high
+174,rajasthan,kharif,cotton,120,40,20,5.36,510.05,33,16000,31176,1.9485,Arid and Desert soil,medium
+175,rajasthan,kharif,jowar,80,40,40,5.64,510.05,33,105900,34600,0.326723324,Arid and Desert soil,medium
+176,rajasthan,kharif,maize,80,40,20,5.46,510.05,33,43600,33100,0.759174312,Arid and Desert soil,medium
+177,rajasthan,kharif,onion,120,60,65,5.96,510.05,33,2800,4500,1.607142857,Arid and Desert soil,medium
+178,rajasthan,kharif,rice,80,40,40,5.4,510.05,33,100,100,1,Arid and Desert soil,medium
+179,rajasthan,kharif,sesamum,30,15,30,6.58,510.05,33,8000,2000,0.25,Arid and Desert soil,medium
+180,rajasthan,rabi,barley,70,40,45,5.48,19.38,22,24700,28900,1.170040486,Arid and Desert soil,medium
+181,rajasthan,rabi,rapeseed,50,40,20,4.96,19.38,22,36700,25400,0.692098093,Arid and Desert soil,medium
+182,rajasthan,rabi,wheat,60,30,30,6.3,19.38,22,79300,144500,1.822194199,Arid and Desert soil,medium
+183,rajasthan,whole year,potato,180,60,90,5,556.2,28,100,700,7,Arid and Desert soil,medium
+184,tamil nadu,kharif,banana,100,75,50,6.34,297.66,29,5619,183740,32.69976864,Laterite,high
+185,tamil nadu,kharif,horsegram,20,60,20,5.9,297.66,29,6849,3040,0.443860418,Laterite,medium
+186,tamil nadu,kharif,onion,120,60,65,5.98,297.66,29,2813,37188,13.22004977,Laterite,medium
+187,tamil nadu,kharif,sesamum,30,15,30,6.48,297.66,29,1598,580,0.362953692,Black Soil,medium
+188,tamil nadu,whole year,banana,100,75,50,6.38,884.5,27,7269,285930,39.33553446,Black Soil,medium
+189,tamil nadu,whole year,blackpepper,100,60,50,5.02,884.5,27,131,30,0.229007634,Laterite,high
+190,tamil nadu,whole year,cardamom,75,75,150,5,884.5,27,834,70,0.083932854,Laterite,medium
+191,tamil nadu,whole year,cashewnuts,70,40,60,6.04,884.5,27,63,40,0.634920635,Black Soil,medium
+192,tamil nadu,whole year,coriander,10,20,20,6.34,884.5,27,709,130,0.183356841,Black Soil,medium
+193,tamil nadu,whole year,cotton,120,40,20,5.38,884.5,27,16858,30610,1.815755131,Laterite,low
+194,tamil nadu,whole year,tapioca,50,50,50,5.58,884.5,27,1320,49510,37.50757576,Laterite,medium
+195,tamil nadu,whole year,turmeric,25,60,100,4.9,884.5,27,2024,16960,8.37944664,Laterite,medium
+196,tamil nadu,whole year,garlic,50,10,60,5.38,884.5,27,822,5010,6.094890511,Laterite,medium
+197,tamil nadu,whole year,maize,80,40,20,5.5,884.5,27,25017,49310,1.971059679,Laterite,medium
+198,tamil nadu,whole year,moong,20,40,20,5.5,884.5,27,5757,2060,0.357825256,Laterite,low
+199,tamil nadu,whole year,onion,120,60,65,6.16,884.5,27,4620,29180,6.316017316,Laterite,low
+200,tamil nadu,whole year,potato,180,60,90,5.1,884.5,27,2001,29730,14.85757121,Laterite,low
+201,tamil nadu,whole year,rice,80,40,40,5.42,884.5,27,27589,136520,4.94834898,Laterite,low
+202,telangana,kharif,cotton,120,40,20,5.34,770.44,28,144900,66500,0.458937198,Alluvial,low
+203,telangana,kharif,jowar,80,40,40,5.5,770.44,28,58200,31500,0.541237113,Laterite,low
+204,telangana,kharif,maize,80,40,20,5.68,770.44,28,23900,63000,2.635983264,Laterite,low
+205,telangana,kharif,moong,20,40,20,5.36,770.44,28,20600,3600,0.174757282,Alluvial,low
+206,telangana,kharif,rice,80,40,40,5.42,770.44,28,30600,29100,0.950980392,Alluvial,low
+207,telangana,kharif,sesamum,30,15,30,6.6,770.44,28,21700,1000,0.046082949,Alluvial,low
+208,telangana,kharif,sunflower,50,60,30,5.38,770.44,28,5200,2300,0.442307692,Alluvial,low
+209,telangana,rabi,horsegram,20,60,20,6,98.94,25,3200,300,0.09375,Alluvial,medium
+210,telangana,rabi,jowar,80,40,40,5.56,98.94,25,96100,33500,0.348595213,Alluvial,medium
+211,telangana,rabi,maize,80,40,20,5.48,98.94,25,4600,13700,2.97826087,Alluvial,medium
+212,telangana,rabi,moong,20,40,20,5.46,98.94,25,4800,600,0.125,Alluvial,medium
+213,telangana,rabi,rice,80,40,40,5.36,98.94,25,5200,12400,2.384615385,Alluvial,medium
+214,telangana,rabi,sesamum,30,15,30,6.34,98.94,25,3900,400,0.102564103,Laterite,medium
+215,telangana,rabi,sunflower,50,60,30,5.38,98.94,25,1600,600,0.375,Laterite,medium
+216,telangana,rabi,wheat,60,30,30,6.11,98.94,25,3600,2000,0.555555556,Laterite,medium
+217,uttar pradesh,kharif,sesamum,30,15,30,6.46,579.75,34,1784,416,0.233183857,Alluvial,medium
+218,uttar pradesh,kharif,soyabean,20,60,20,5.64,579.75,34,4,4,1,Alluvial,medium
+219,uttar pradesh,rabi,barley,70,40,45,5.54,75.32,22,10865,35423,3.26028532,Alluvial,medium
+220,uttar pradesh,rabi,rapeseed,50,40,20,4.9,75.32,22,96995,58352,0.601598021,Alluvial,medium
+221,uttar pradesh,rabi,sunflower,50,60,30,5.5,75.32,22,97,84,0.865979381,Alluvial,medium
+222,uttar pradesh,rabi,wheat,60,30,30,6.1,75.32,22,123600,391030,3.163673139,Alluvial,medium
+223,uttar pradesh,summer,maize,80,40,20,5.64,34.81,34,33,52,1.575757576,Alluvial,high
+224,uttar pradesh,summer,moong,20,40,20,5.54,34.81,34,770,269,0.349350649,Alluvial,high
+225,uttar pradesh,whole year,potato,180,60,90,4.92,689.88,29,14430,397344,27.53596674,Alluvial,high
+226,uttar pradesh,kharif,jowar,80,40,40,5.46,579.75,34,11,6,0.545454545,Alluvial,high
+227,uttar pradesh,kharif,maize,80,40,20,5.62,579.75,34,44245,96897,2.190010171,Alluvial,high
+228,uttar pradesh,kharif,moong,20,40,20,5.4,579.75,34,175,50,0.285714286,Alluvial,high
+229,uttar pradesh,kharif,onion,120,60,65,5.86,579.75,34,88,870,9.886363636,Alluvial,high
+230,uttar pradesh,kharif,rice,80,40,40,5.58,579.75,34,17167,36571,2.130308149,Alluvial,high
+231,west bengal,kharif,rice,80,40,40,5.46,1166.94,28,15017,33840,2.253446094,Red Soil,low
+232,west bengal,kharif,jute,80,40,40,5.46,1166.94,28,52568,677510,12.88825902,Red Soil,high
+233,west bengal,rabi,moong,20,40,20,5.68,152.54,22,65,49,0.753846154,Red Soil,high
+234,west bengal,rabi,wheat,60,30,30,6.3,152.54,22,6790,11950,1.75994109,Red Soil,high
+235,west bengal,summer,moong,20,40,20,5.32,182.5,29,175,5,0.028571429,Alluvial,high
+236,west bengal,summer,rice,80,40,40,5.5,182.5,29,98044,269690,2.750703766,Alluvial,high
+237,west bengal,whole year,arecanut,100,40,140,5.96,1501.98,25,1345,1274,0.947211896,Alluvial,high
+238,west bengal,whole year,maize,80,40,20,5.6,1501.98,25,5,10,2,Alluvial,high
+239,west bengal,whole year,potato,180,60,90,4.88,1501.98,25,6199,131431,21.20196806,Alluvial,high
+240,west bengal,whole year,rapeseed,50,40,20,4.96,1501.98,25,33993,25070,0.73750478,Red Soil,medium
+241,west bengal,whole year,sesamum,30,15,30,6.4,1501.98,25,6188,3875,0.626212023,Saline Soil,low
+242,west bengal,whole year,turmeric,25,60,100,4.92,1501.98,25,820,1701,2.074390244,Saline Soil,low
+243,west bengal,rabi,rice,80,40,40,5.48,152.54,22,193202,381990,1.977153446,Alluvial,high
+244,arunachal pradesh,kharif,maize,80,40,20,5.66,1712.66,11,1575,2450,1.555555556,Alluvial,high
+245,arunachal pradesh,kharif,rice,80,40,40,5.32,1712.66,11,11550,14316,1.239480519,Alluvial,high
+246,arunachal pradesh,kharif,sesamum,30,15,30,6.34,1712.66,11,430,244,0.56744186,Alluvial,high
+247,arunachal pradesh,kharif,soyabean,20,60,20,5.64,1712.66,11,520,592,1.138461538,Alluvial,high
+248,arunachal pradesh,kharif,sunflower,50,60,30,5.66,1712.66,11,55,20,0.363636364,Alluvial,high
+249,arunachal pradesh,rabi,rapeseed,50,40,20,5.1,241.78,1,4215,3200,0.759193357,Alluvial,high
+250,arunachal pradesh,rabi,wheat,60,30,30,6.11,241.78,1,225,230,1.022222222,Alluvial,high
+251,arunachal pradesh,whole year,potato,180,60,90,5.12,2569.52,4,350,1650,4.714285714,Alluvial,high
+252,arunachal pradesh,whole year,turmeric,25,60,100,5.04,2569.52,4,105,535,5.095238095,Alluvial,high
+253,chandigarh,kharif,maize,80,40,20,5.34,80.926,28,380,1330,3.5,Loamy Soil,medium
+254,chandigarh,kharif,moong,20,40,20,5.68,80.926,28,3,3,1,Loamy Soil,medium
+255,chandigarh,kharif,rice,80,40,40,5.66,80.926,28,120,360,3,Loamy Soil,medium
+256,chandigarh,rabi,rapeseed,50,40,20,5.14,9.627044,16,120,130,1.083333333,Loamy Soil,medium
+257,chandigarh,rabi,wheat,60,30,30,6.12,9.627044,16,880,3960,4.5,Loamy Soil,medium
+258,chandigarh,whole year,onion,120,60,65,5.86,35.214,22,18,450,25,Loamy Soil,medium
+259,chandigarh,whole year,potato,180,60,90,4.82,35.214,22,130,3250,25,Loamy Soil,medium
+260,dadra and nagar haveli,kharif,jowar,80,40,40,5.34,168.257,28,523,418,0.799235182,Clay-Loamy ,medium
+261,dadra and nagar haveli,kharif,maize,80,40,20,5.38,168.257,28,16,10,0.625,Clay-Loamy ,high
+262,dadra and nagar haveli,kharif,ragi,50,40,20,5.4,168.257,28,1669,2166,1.297783104,Clay-Loamy ,high
+263,dadra and nagar haveli,kharif,rice,80,40,40,5.36,168.257,28,14123,24023,1.70098421,Clay-Loamy ,high
+264,dadra and nagar haveli,rabi,rice,80,40,40,5.62,5.274,27,383,770,2.010443864,Clay-Loamy ,high
+265,dadra and nagar haveli,rabi,banana,100,75,50,6.32,5.274,27,14,280,20,Clay-Loamy ,high
+266,dadra and nagar haveli,rabi,coriander,10,20,20,6.6,5.274,27,5,4,0.8,Clay-Loamy ,high
+267,dadra and nagar haveli,rabi,rapeseed,50,40,20,4.88,5.274,27,30,30,1,Clay-Loamy ,high
+268,dadra and nagar haveli,rabi,sesamum,30,15,30,6.46,5.274,27,24,14,0.583333333,Clay-Loamy ,high
+269,dadra and nagar haveli,rabi,sunflower,50,60,30,5.54,5.274,27,5,3,0.6,Clay-Loamy ,high
+270,dadra and nagar haveli,rabi,wheat,60,30,30,6.11,5.274,27,537,920,1.713221601,Clay-Loamy ,high
+271,himachal pradesh,kharif,horsegram,20,60,20,5.86,664.94,22,40,23,0.575,Laterite,high
+272,himachal pradesh,kharif,maize,80,40,20,5.6,664.94,22,24483,42167,1.722297104,Laterite,high
+273,himachal pradesh,kharif,rice,80,40,40,5.66,664.94,22,2068,2584,1.249516441,Laterite,medium
+274,himachal pradesh,kharif,sesamum,30,15,30,6.5,664.94,22,133,54,0.406015038,Laterite,medium
+275,himachal pradesh,kharif,soyabean,20,60,20,5.54,664.94,22,12,8,0.666666667,Laterite,medium
+276,himachal pradesh,rabi,barley,70,40,45,5.36,240.1,10,317,329,1.03785489,Laterite,medium
+277,himachal pradesh,rabi,potato,180,60,90,4.94,240.1,10,13,153,11.76923077,Laterite,medium
+278,himachal pradesh,rabi,rapeseed,50,40,20,5.02,240.1,10,365,141,0.38630137,Alluvial,medium
+279,himachal pradesh,rabi,wheat,60,30,30,6.5,240.1,10,26739,32351,1.209880699,Alluvial,high
+280,himachal pradesh,whole year,cotton,120,40,20,5.66,1098.26,15,12,6,0.5,Alluvial,high
+281,himachal pradesh,whole year,garlic,50,10,60,5.58,1098.26,15,20,24,1.2,Alluvial,high
+282,himachal pradesh,whole year,turmeric,25,60,100,4.88,1098.26,15,15,11,0.733333333,Alluvial,high
+283,himachal pradesh,kharif,moong,20,40,20,5.68,664.94,22,4,1,0.25,Alluvial,high
+284,himachal pradesh,kharif,potato,180,60,90,4.82,664.94,22,533,6274,11.77110694,Alluvial,high
+285,himachal pradesh,whole year,garlic,50,10,60,5.66,1098.26,15,69,41,0.594202899,Alluvial,high
+286,maharashtra,kharif,cotton,120,40,20,5.68,607.48,26,12100,19900,1.644628099,Black Soil,high
+287,maharashtra,kharif,jowar,80,40,40,5.32,607.48,26,300,500,1.666666667,Black Soil,high
+288,maharashtra,kharif,maize,80,40,20,5.56,607.48,26,5800,12500,2.155172414,Black Soil,high
+289,maharashtra,kharif,moong,20,40,20,5.48,607.48,26,15600,9100,0.583333333,Black Soil,medium
+290,maharashtra,kharif,ragi,50,40,20,5.48,607.48,26,3000,2100,0.7,Black Soil,medium
+291,maharashtra,kharif,rice,80,40,40,5.42,607.48,26,5600,7400,1.321428571,Black Soil,medium
+292,maharashtra,kharif,sesamum,30,15,30,6.5,607.48,26,900,300,0.333333333,Black Soil,medium
+293,maharashtra,kharif,soyabean,20,60,20,5.5,607.48,26,4600,5500,1.195652174,Black Soil,medium
+294,maharashtra,kharif,sunflower,50,60,30,5.36,607.48,26,11500,3500,0.304347826,Black Soil,medium
+295,maharashtra,rabi,jowar,80,40,40,5.32,70.11,25,453200,227900,0.502868491,Black Soil,medium
+296,maharashtra,rabi,maize,80,40,20,5.42,70.11,25,7900,12200,1.544303797,Black Soil,medium
+297,maharashtra,rabi,sesamum,30,15,30,6.48,70.11,25,400,100,0.25,Black Soil,medium
+298,maharashtra,rabi,sunflower,50,60,30,5.46,70.11,25,9200,5100,0.554347826,Black Soil,medium
+299,maharashtra,rabi,wheat,60,30,30,6.4,70.11,25,124400,154200,1.239549839,Black Soil,medium
+300,maharashtra,summer,sunflower,50,60,30,5.44,37.09,27,300,200,0.666666667,Black Soil,medium
+301,puducherry,kharif,rice,80,40,40,5.38,162.72,29,909,2215,2.436743674,Loamy Soil,medium
+302,puducherry,kharif,sesamum,30,15,30,6.5,162.72,29,44,20,0.454545455,Loamy Soil,low
+303,puducherry,rabi,rice,80,40,40,5.36,10.265748,25,7550,14556,1.92794702,Loamy Soil,low
+304,puducherry,summer,cotton,120,40,20,5.36,3.274569,29,288,220,0.763888889,Loamy Soil,low
+305,puducherry,summer,rice,80,40,40,5.44,3.274569,29,153,383,2.503267974,Loamy Soil,low
+306,puducherry,kharif,arecanut,100,40,140,6.1,162.72,29,66,23,0.348484848,Loamy Soil,low
+307,puducherry,kharif,blackpepper,100,60,50,4.96,162.72,29,12,7,0.583333333,Loamy Soil,medium
+308,puducherry,kharif,tapioca,50,50,50,5.68,162.72,29,18,180,10,Loamy Soil,medium
+309,sikkim,kharif,maize,80,40,20,5.36,1875.6,20,9690,16450,1.697626419,Brown clay,medium
+310,sikkim,kharif,rice,80,40,40,5.44,1875.6,20,6690,9290,1.388639761,Brown clay,medium
+311,sikkim,kharif,soyabean,20,60,20,5.4,1875.6,20,1000,810,0.81,Brown clay,medium
+312,sikkim,rabi,barley,70,40,45,5.66,140.52,12,340,270,0.794117647,Brown clay,medium
+313,sikkim,rabi,rapeseed,50,40,20,4.96,140.52,12,2240,910,0.40625,Brown clay,medium
+314,sikkim,rabi,wheat,60,30,30,6.4,140.52,12,2720,2370,0.871323529,Brown clay,medium
+315,tripura,kharif,cotton,120,40,20,5.4,1220.22,27,461,511,1.10845987,Alluvial,medium
+316,tripura,kharif,jute,80,40,40,5.54,1220.22,27,125,1000,8,Alluvial,high
+317,tripura,kharif,maize,80,40,20,5.66,1220.22,27,615,460,0.74796748,Alluvial,high
+318,tripura,kharif,moong,20,40,20,5.46,1220.22,27,120,60,0.5,Alluvial,high
+319,tripura,kharif,rice,80,40,40,5.64,1220.22,27,34010,56605,1.664363423,Alluvial,high
+320,tripura,kharif,sesamum,30,15,30,6.46,1220.22,27,185,85,0.459459459,Alluvial,high
+321,tripura,rabi,moong,20,40,20,5.64,145.76,21,107,44,0.411214953,Alluvial,high
+322,tripura,rabi,rapeseed,50,40,20,5.12,145.76,21,935,737,0.788235294,Alluvial,high
+323,tripura,rabi,wheat,60,30,30,7,145.76,21,250,470,1.88,Alluvial,high
+324,chhattisgarh,kharif,horsegram,20,60,20,6.1,1151.02,28,11304,4404,0.389596603,Red Soil,high
+325,chhattisgarh,kharif,jowar,80,40,40,5.64,1151.02,28,821,770,0.937880633,Red Soil,medium
+326,chhattisgarh,kharif,maize,80,40,20,5.4,1151.02,28,13769,22508,1.634686615,Red Soil,medium
+327,chhattisgarh,kharif,moong,20,40,20,5.38,1151.02,28,262,118,0.450381679,Red Soil,medium
+328,chhattisgarh,kharif,ragi,50,40,20,5.58,1151.02,28,5556,1272,0.228941685,Red Soil,medium
+329,chhattisgarh,kharif,rice,80,40,40,5.6,1151.02,28,258336,213319,0.825742444,Red Soil,medium
+330,chhattisgarh,kharif,sesamum,30,15,30,6.64,1151.02,28,740,166,0.224324324,Red Soil,medium
+331,chhattisgarh,kharif,soyabean,20,60,20,5.4,1151.02,28,64,49,0.765625,Red Soil,medium
+332,chhattisgarh,kharif,sunflower,50,60,30,5.36,1151.02,28,5,1,0.2,Red Soil,medium
+333,chhattisgarh,rabi,moong,20,40,20,5.56,94.02,22,34,11,0.323529412,Red Soil,medium
+334,chhattisgarh,rabi,rapeseed,50,40,20,5.04,94.02,22,4672,1542,0.33005137,Red Soil,medium
+335,chhattisgarh,rabi,wheat,60,30,30,6.7,94.02,22,868,1683,1.938940092,Red Soil,medium
+336,chhattisgarh,whole year,banana,100,75,50,6.66,1299.26,26,51,2377,46.60784314,Red Soil,medium
+337,chhattisgarh,whole year,coriander,10,20,20,6.4,1299.26,26,31,8,0.258064516,Red Soil,medium
+338,chhattisgarh,whole year,garlic,50,10,60,5.5,1299.26,26,10,33,3.3,Red Soil,medium
+339,chhattisgarh,whole year,onion,120,60,65,5.92,1299.26,26,234,1774,7.581196581,Red Soil,medium
+340,chhattisgarh,whole year,potato,180,60,90,5.02,1299.26,26,223,1743,7.816143498,Red Soil,medium
+341,chhattisgarh,whole year,sweetpotato,90,20,120,5.16,1299.26,26,345,2071,6.002898551,Red Soil,medium
+342,chhattisgarh,whole year,turmeric,25,60,100,5.1,1299.26,26,127,108,0.850393701,Red Soil,medium
