@@ -1,4 +1,4 @@
-# R_programming_Project-Crop-Suitability-Analysis-
+# Project on Crop Recommendation
 Explore crop suitability with precision using RShiny integrate with ml model(Random Forest) in R programming . Analyze data, visualize insights, and make informed decisions for optimized agricultural practices.
 ## Introduction
 Seasonal Crop Suitability Analysis in R will grow in importance. Climate change impacting monsoons and rising populations will necessitate data-driven decisions for crop selection, resource allocation, and sustainability. 
